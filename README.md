@@ -129,5 +129,3 @@ This approach can be extended to:
 * Perform clustering or recommendation systems based on ingredients.
 
 ---
-
-Let me know if you also want the **actual Python notebook code** or want me to turn this into a `.ipynb` file or `.py` script!
