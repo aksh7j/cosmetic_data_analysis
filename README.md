@@ -1,7 +1,3 @@
-Here's a complete **README.md** file that describes the steps and purpose of your cosmetics ingredient analysis project using t-SNE for dimensionality reduction and visualization:
-
----
-
 # 🧴 Cosmetics Ingredient Visualization using t-SNE
 
 This project performs exploratory analysis and visualization on a cosmetics dataset using **Pandas**, **NumPy**, **scikit-learn**, and **Bokeh**. The primary focus is to understand patterns in the ingredients of **moisturizers for dry skin**, and visualize their similarity using **t-SNE (t-distributed Stochastic Neighbor Embedding)**.
